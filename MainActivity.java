@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
     class CallWebService extends AsyncTask<String, Void, String> {
         @Override
         protected void onPostExecute(String s) {
-            text.setText("Square = " + s);
+            text.setText("Output of Soap " + s);
         }
 
         @Override
