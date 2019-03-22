@@ -27,8 +27,8 @@ public class MainActivity extends AppCompatActivity {
         description.clear();
 
         id.add("1");
-        title.add("CodeCry");
-        description.add("CodeCry is a Code Repository comprised of codes from C, C++, Java, Python, Javascript and many others.");
+        title.add("Case 1");
+        description.add("Some Small Description");
 
         id.add("2");
         title.add("TechRead");
